@@ -41,7 +41,7 @@
     
     //—-initialize  FavDetails array—-
     FavDetails= [[NSMutableArray alloc] init];
-    [FavDetails addObject:@"http://www.shopcherryvalemall.com/shop/cherryvale.nsf/index"];
+    [FavDetails addObject:@"http://www.shopcherryvalemall.com/"];
     [FavDetails addObject:@"http://www.bicycling.com/mountainbikecom"];
     [FavDetails addObject:@"http://www.google.com"];
 
